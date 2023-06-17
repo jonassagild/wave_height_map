@@ -1,5 +1,5 @@
-import './globals.css'
 import { Inter } from 'next/font/google'
+import 'leaflet/dist/leaflet.css';
 
 const inter = Inter({ subsets: ['latin'] })
 
